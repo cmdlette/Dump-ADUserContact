@@ -1,4 +1,4 @@
-# Dump_ADUserContact
+# Dump-ADUserContact.ps1
 This script will pull basic contact information for Active Directory user accounts and spit everything out into a .csv file.
 
 # What you need to do
